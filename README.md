@@ -1,18 +1,28 @@
-# Getting Started with Create React App
+# About Project
+
+Project Ghost card game on solana, with a wide range of deck configurations, available on PC and Phone. GhostCards is a fantasy card world with 1 vs 1 battles play and earn!.For each fight you will have a chance to get NFT!.Summons your deck or sell unnecessary ones!.We will reinvest investments from NFT Sales back into the project and create a price fund for tournaments.If you like strategy games, don’t pass by.
+Lear More https://tikiswap.web.app/faq
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can r![Capture4](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e1b93b17-aeca-4cea-bdb8-4b81204a0459)
+![screenshot-tikiswap web app-2023 06 15-05_31_44](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e8833366-f034-4776-bf4f-ad4b8540978b)
+![Capture2](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/a4367087-530b-4efc-a74d-8482be7fa72b)
+un:
+
+### `npm install`
+
+The command "npm install" is used in Node.js projects to install dependencies defined in the package.json file. It will download and install all the required packages and their respective versions specified in the package.json file.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+It will start server at http://localhost:3000/ and run the Ghost Cards of Salona on browser.
+![Capture3](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e86061a9-b00e-48fe-973a-95f69ddf9ee9)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `npm test`
 
