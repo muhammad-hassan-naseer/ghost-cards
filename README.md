@@ -9,20 +9,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Available Scripts
 
-In the project directory, you can r![Capture4](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e1b93b17-aeca-4cea-bdb8-4b81204a0459)
-![screenshot-tikiswap web app-2023 06 15-05_31_44](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e8833366-f034-4776-bf4f-ad4b8540978b)
-![Capture2](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/a4367087-530b-4efc-a74d-8482be7fa72b)
-un:
-
 ### `npm install`
 
 The command "npm install" is used in Node.js projects to install dependencies defined in the package.json file. It will download and install all the required packages and their respective versions specified in the package.json file.
 
 ### `npm start`
+It will start the server at http://localhost:3000/ and run the project on browser.
 
+![Capture2](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/a4367087-530b-4efc-a74d-8482be7fa72b)
+un:
 It will start server at http://localhost:3000/ and run the Ghost Cards of Salona on browser.
-![Capture3](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e86061a9-b00e-48fe-973a-95f69ddf9ee9)
-
+![Capture4](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e1b93b17-aeca-4cea-bdb8-4b81204a0459)
+![screenshot-tikiswap web app-2023 06 15-05_31_44](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e8833366-f034-4776-bf4f-ad4b8540978b)
 
 ### `npm test`
 
